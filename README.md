@@ -1,12 +1,25 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+je+suis+Rayane+%F0%9F%91%8B;Administrateur+Systeme+%26+Reseau;Linux+%7C+WireGuard+%7C+HAProxy;Passionne+de+cybersecurite+%F0%9F%94%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Salut+moi+c'est+Rayane+%F0%9F%91%8B;Administrateur+Systeme+%26+Reseau;Linux+%7C+WireGuard+%7C+HAProxy;Passionne+de+cybersecurite+%F0%9F%94%90)](https://git.io/typing-svg)
+
+<br/>
+
+![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=serayane.serayane)
 
 </div>
 
 ---
 
-## 🧑‍💻 À propos de moi
+## 🧑‍💻 Qui suis-je ?
+
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🎓 Etudiant en **Administration Système et Réseau**
+- 🔐 Passionné de **cybersécurité** et d'infrastructure réseau
+- 🐧 Fan de **Linux** — Ubuntu Server, Debian
+- 🛡️ Je construis des infras **sécurisées** et **résilientes**
+- 🚀 Toujours en train d'apprendre de nouvelles technos
+- 💬 Pose-moi des questions sur **Linux**, **VPN**, **Réseau**
 
 ---
 
@@ -21,6 +34,7 @@
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HAProxy](https://img.shields.io/badge/HAProxy-0066CC?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -30,7 +44,9 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=serayane&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=serayane&theme=tokyonight&border_radius=10&locale=fr)](https://git.io/streak-stats)
+
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serayane&theme=tokyonight&border_radius=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -38,12 +54,13 @@
 
 ---
 
-## 🚀 Mon Projet
+## 🗂️ Mes Projets
 
-### 🔐 [Infrastructure Web Sécurisée Site-à-Site](https://github.com/serayane/infra-web-securisee-site-to-site)
-> Mise en place d'une infrastructure complète avec VPN WireGuard, HAProxy, Firewall iptables et HTTPS sur 10 VMs Ubuntu Server.
-
-**Technologies :** `WireGuard` `HAProxy` `iptables` `Apache2` `OpenSSL` `Bind9` `DHCP`
+> Retrouve tous mes projets épinglés juste en bas de cette page !
+> 
+> 💡 Je partage ici tout ce que j'apprends — infra réseau, cybersécurité, Linux...
+> Chaque projet est documenté et prêt à être reproduit.
+> N'hésite pas à explorer, forker et poser des questions !
 
 ---
 
@@ -51,7 +68,7 @@
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -59,6 +76,6 @@
 
 <div align="center">
 
-*"La sécurité n'est pas un produit, c'est un processus."*
+*🔐 "La sécurité n'est pas un produit, c'est un processus." — Bruce Schneier*
 
 </div>
